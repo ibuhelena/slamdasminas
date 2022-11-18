@@ -1,0 +1,107 @@
+<html>
+
+<head>
+
+    <title> SLAM DAS MINAS SP </title>
+</head>
+
+<body>
+    <header class="menu-principal">
+        <main>
+            <div class="header-1">
+
+                <div class="redes-sociais">
+                    <ul>
+                        <li>
+                            <a href="">
+                                <img src="IMG/FACEBOOK.png" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <img src="./img/linkedin.png" />
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </main>
+    </header>
+    <main class="col-100 menu-urls">
+        <div class="header-2">
+            <div class="menu">
+                <ul>
+                    <li>
+                        <a href="">Home</a>
+                    </li>
+                    <li>
+                        <a href="">SOBRE ELAS</a>
+                    </li>
+                    <li>
+                        <a href="">O QUE FAZEMOS</a>
+                    </li>
+                    <li>
+                        <a href="">ONDE NOS ACHAR</a>
+                    </li>
+
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </main>
+
+    </div>
+    <div class="col-100">
+        <div class="content texto-destaque">
+            <h1>SLAM DAS MINAS SP <strong> É A PRIMEIRA SLAM EXCLUSIVA </strong> DE SP!</h1>
+            <p> Cansadas de tanto boicote na cena, as poetas se juntam para garantir a presença de
+                mulheres no SLAM BR.
+            </p>
+
+            <div class="col-3">
+                <img src="./IMG/SLAM 5.jpg" />
+                <h1>SLAM DAS MINAS SP NAS BIBLIOTECAS MUNICIPAIS DE SP!</h1>
+                <p>Levando a arte para os jovens também, a poesia é para todes! </p>
+            </div>
+        </div>
+    </div>
+</body>
+
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+    <link rel="stylesheet" type="text/css" href="./css/slick.css" />
+    <title>SLAM DAS MINAS SP</title>
+</head>
+
+<body>
+    <header class="menu-principal">
+        <main>
+            <div class="header-1">
+                <div class="logo">
+                    <img src="./img/logo.png" />
+                </div>
+                <div class="redes-sociais">
+                    <ul>
+
+                        <li>
+                            <a href="">
+                                <img src="IMG/FACEBOOK.png" />
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="">
+                                <img src="IMG/LINKEDIN.png" />
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </main>
+    </header>
+    <main class="col-100 menu-urls">
+        <div class="header-2">
+            <div class="menu">
+                <ul>
